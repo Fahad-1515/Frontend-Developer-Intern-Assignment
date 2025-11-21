@@ -1,8 +1,8 @@
 # Frontend Developer Intern Assignment
 
 A full-stack web application with authentication and dashboard features built with React.js and Node.js.
-<img width="1723" height="828" alt="Screenshot 2025-11-21 140010" src="https://github.com/user-attachments/assets/61494b63-bfe9-4b25-b517-a934c846674a" />
 <img width="1415" height="836" alt="Screenshot 2025-11-21 140021" src="https://github.com/user-attachments/assets/7f0b2129-57f5-4e94-af7a-3af3504849a5" />
+<img width="1723" height="828" alt="Screenshot 2025-11-21 140010" src="https://github.com/user-attachments/assets/61494b63-bfe9-4b25-b517-a934c846674a" />
 
 ## 🚀 Features
 
