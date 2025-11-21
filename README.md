@@ -28,23 +28,6 @@ A full-stack web application with authentication and dashboard features built wi
 - JWT for authentication
 - bcrypt for password hashing
 - CORS enabled
-  
-frontend-intern-app/
-├── frontend/                 # React.js application
-│   ├── src/
-│   │   ├── components/      # Reusable components
-│   │   ├── pages/          # Page components
-│   │   ├── services/       # API services
-│   │   ├── contexts/       # React contexts
-│   │   └── styles/         # CSS files
-│   └── package.json
-├── backend/                 # Node.js/Express backend
-│   ├── routes/             # API routes
-│   ├── models/             # MongoDB models
-│   ├── middleware/         # Custom middleware
-│   └── package.json
-├── docs/                   # Documentation
-└── README.md
 
 ## 📦 Installation
 
