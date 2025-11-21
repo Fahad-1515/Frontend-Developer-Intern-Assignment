@@ -13,17 +13,17 @@
   "password": "password123"
 }
 ```
-POST /api/auth/register - User registration
+**POST** `/api/auth/register` - User registration
 
-POST /api/auth/login - User login
+**POST** `/api/auth/login` - User login
 
-GET /api/auth/me - Get user profile
+**GET** `/api/auth/me` - Get user profile
 
 Tasks
-GET /api/tasks - Get all tasks
+**GET** `/api/tasks` - Get all tasks
 
-POST /api/tasks - Create task
+**POST** `/api/tasks` - Create task
 
-PUT /api/tasks/:id - Update task
+**PUT** `/api/tasks/:id` - Update task
 
-DELETE /api/tasks/:id - Delete task
+**DELETE** `/api/tasks/:id` - Delete task
