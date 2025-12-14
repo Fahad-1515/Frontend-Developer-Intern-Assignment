@@ -29,7 +29,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    // You can remove "react-scripts": "5.0.1" from here
+    
   },
   "browserslist": {
     "production": [
